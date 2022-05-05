@@ -24,7 +24,7 @@
 
 ## CI/CD 工作流程
 
-![CICD-Workflow](../static/image/CICD-Workflow.png)
+![CICD-Workflow](../static/image/gitlab_workflow_example.png)
 
 ## DevOps
 
